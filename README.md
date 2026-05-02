@@ -1,5 +1,7 @@
 # uniswap-lib
 
+> Personal archive fork by Sage / 0SxD. See ARCHIVE_NOTICE.md for prior-associations disclaimer and current research continuity.
+
 [![Tests](https://github.com/VenomProtocol/venomswap-lib/workflows/Tests/badge.svg)](https://github.com/VenomProtocol/venomswap-lib/actions?query=workflow%3ATests)
 [![Static Analysis](https://github.com/VenomProtocol/venomswap-lib/workflows/Static%20Analysis/badge.svg)](https://github.com/VenomProtocol/venomswap-lib/actions?query=workflow%3A%22Static+Analysis%22)
 [![Lint](https://github.com/VenomProtocol/venomswap-lib/workflows/Lint/badge.svg)](https://github.com/VenomProtocol/venomswap-lib/actions?query=workflow%3ALint)
